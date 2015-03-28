@@ -1,22 +1,14 @@
 #「提問的智慧(How To Ask Questions The Smart Way)」
 
-本文是由知名黑客 Eric S. Raymond 所撰寫，被廣泛轉錄，可以很容易地透過Google搜尋到。
-
-正確的提問是一種禮貌，或多或少我們都要重視被詢問的專家的時間和精力。 人們的熱心是有限度的，畢竟每個人每天都一樣只有24個小時，對於只想簡單索取答案，而不思考或是搜索資訊的人，在沒有任何回報之下，基本上被詢問者是沒有任何幫忙的義務的。
-
-這時最好的回答，就是這本指南。
-
-這本指南是根據原文 3.10 版的最新翻譯，請協助指出翻譯問題，歡迎發送Pull Request 給我。
-
-版本 3.10, 最後修改日期 2015/03/29
+英文版: [http://www.catb.org/~esr/faqs/smart-questions.html](http://www.catb.org/~esr/faqs/smart-questions.html)
 
 Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
+本指南英文版版權為 Eric S. Raymond, Rick Moen 所有。
 
-正體中文版 Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
+Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
+這本中文指南是根據原文 3.10 版的最新翻譯，請協助指出翻譯問題，或直接[發Pull Request](https://github.com/ryanhanwu/smartquestions/compare/) 給我。
 
-簡體中文版 http://www.beiww.com/doc/oss/smart-questions.html
-
-英文版：http://www.catb.org/~esr/faqs/smart-questions.html
+另有简体中文版: [http://www.beiww.com/doc/oss/smart-questions.html](http://www.beiww.com/doc/oss/smart-questions.html)
 
 ## 聲明 ##
 
@@ -52,7 +44,7 @@ __本指南不提供此專案的實際支援服務！__
 
 （歡迎對本指南提出改進意見。你可以 email 你的建議至 [esr@thyrsus.com](esr@thyrsus.com) 或 [respond-auto@linuxmafia.com](respond-auto@linuxmafia.com)，然而請注意，本文並非 [網路禮節](http://www.dtcc.edu/cs/rfc1855.html)的通用指南，我通常會拒絕無助於在技術論壇得到有用答案的建議。）
 
-__如果你寫中文，請直接發在Github Issue__
+__如果你寫中文，請直接[發Issues](https://github.com/ryanhanwu/smartquestions/issues/new)給我__
 
 # 在提問之前 #
 
