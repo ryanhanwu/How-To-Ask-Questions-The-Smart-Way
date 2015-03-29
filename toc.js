@@ -5,7 +5,7 @@
 	var url = document.URL,
 		headers = jQuery("article :header"),
 		result;
-	for (var i = 2; i < headers.length; i++) {
+	for (var i = 3; i < headers.length; i++) { //skip H1, history, and toc
 		var header = headers[i],
 			headerText = header.textContent.trim(),
 			hIndex = parseInt(header.nodeName.substring(1)) - 1,
