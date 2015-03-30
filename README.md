@@ -273,16 +273,20 @@ I'll be glad to translate responses, if you only use one or the other.
 
 如果你使用圖形用戶界面的郵件程式（如微軟公司的Outlook或者其它類似的），注意它們的預設配置不一定滿足這些要求。大多數這類程式有基於選單的```查看原始碼```命令，用它來檢查發送文件夾中的消息，以確保發送的是沒有多餘雜質的純文本文件。
 
-### 準確描述問題並言之有物
+### 清晰準確的描述問題並言之有物
 
-  * 仔細、清楚地描述問題的症狀。
-  * 描述問題發生的環境（機器配置、作業系統、應用程式以及別的什麼），提供銷售商的發行版和版本號（如："Fedora Core 4"、"Slackware 9.1"等）。
+  * 仔細、清楚地描述你的問題或臭蟲的症狀。
+  * 描述問題發生的環境（機器配置、作業系統、應用程式、以及相關的資訊），提供經銷商的發行版和版本號（如：```Fedora Core 4```、```Slackware 9.1```等）。
   * 描述在提問前你是怎樣去研究和理解這個問題的。
   * 描述在提問前為確定問題而採取的診斷步驟。
-  * 描述最近做過什麼可能有影響的硬體、軟體變更。
-  * 儘量想像一個黑客會怎樣反問你，在提問的時候預先給他答案。
+  * 描述最近做過什麼可能相關的硬體或軟體變更。
+  * 盡可能的提供一個可以```重製這個問題的既定環境```的方法
 
-Simon Tatham寫過一篇名為《[如何有效的報告Bug]（http://go2.wordpress.com/?id=725X1342&site=mmdays.wordpress.com&url=http%3A%2F%2Fwww.chiark.greenend.org.uk%2F~sgtatham%2Fbugs-cn.html&sref=http%3A%2F%2Fmmdays.wordpress.com%2F2007%2F09%2F25%2Fquestion%2F）》的出色文章。強力推薦你也讀一讀。
+儘量去揣測一個黑客會怎樣反問你，在他提問的時候預先給他答案。
+
+以上幾點中，當你回報的是你認為可能在程式碼中的問題時，給黑客一個可以重製你的問題的環境尤其重要。當你這麼做時，你得到有效的回答的機會和速度都會大大的提升。
+
+[Simon Tatham](http://www.chiark.greenend.org.uk/~sgtatham/)寫過一篇名為《[如何有效的回報Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)》的出色文章。強力推薦你也讀一讀。
 
 ### 話不在多而在精
 
