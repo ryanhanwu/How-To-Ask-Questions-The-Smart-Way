@@ -19,46 +19,46 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 ## [原文版本歷史](https://github.com/ryanhanwu/smartquestions/blob/master/history.md)
 
 ##目錄
-  * [聲明](https://github.com/ryanhanwu/smartquestions#聲明)
-  * [簡介](https://github.com/ryanhanwu/smartquestions#簡介)
-  * [在提問之前](https://github.com/ryanhanwu/smartquestions#在提問之前)
-  * [當你提問時](https://github.com/ryanhanwu/smartquestions#當你提問時)
-    * [慎選提問的論壇](https://github.com/ryanhanwu/smartquestions#慎選提問的論壇)
-    * [Stack Overflow](https://github.com/ryanhanwu/smartquestions#Stack Overflow)
-    * [網站和IRC論壇](https://github.com/ryanhanwu/smartquestions#網站和IRC論壇)
-    * [第二步，使用專案郵件列表](https://github.com/ryanhanwu/smartquestions#第二步，使用專案郵件列表)
-    * [使用有意義且描述明確的標題](https://github.com/ryanhanwu/smartquestions#使用有意義且描述明確的標題)
-    * [使問題容易回覆](https://github.com/ryanhanwu/smartquestions#使問題容易回覆)
-    * [用辭貼切，語法正確，拼寫無誤](https://github.com/ryanhanwu/smartquestions#用辭貼切，語法正確，拼寫無誤)
-    * [使用易於讀取且標準的文件格式發送問題](https://github.com/ryanhanwu/smartquestions#使用易於讀取且標準的文件格式發送問題)
-    * [準確描述問題並言之有物](https://github.com/ryanhanwu/smartquestions#準確描述問題並言之有物)
-    * [話不在多而在精](https://github.com/ryanhanwu/smartquestions#話不在多而在精)
-    * [別動輒聲稱找到Bug](https://github.com/ryanhanwu/smartquestions#別動輒聲稱找到Bug)
-    * [低聲下氣前還是要先做功課](https://github.com/ryanhanwu/smartquestions#低聲下氣前還是要先做功課)
-    * [描述問題症狀而非猜測](https://github.com/ryanhanwu/smartquestions#描述問題症狀而非猜測)
-    * [按發生時間先後列出問題症狀](https://github.com/ryanhanwu/smartquestions#按發生時間先後列出問題症狀)
-    * [描述目標而不是過程](https://github.com/ryanhanwu/smartquestions#描述目標而不是過程)
-    * [別要求使用私人電郵回覆](https://github.com/ryanhanwu/smartquestions#別要求使用私人電郵回覆)
-    * [提問應清楚明確](https://github.com/ryanhanwu/smartquestions#提問應清楚明確)
-    * [當詢問有關程式碼的問題時](https://github.com/ryanhanwu/smartquestions#當詢問有關程式碼的問題時)
-    * [別把自己家庭作業的問題貼上來](https://github.com/ryanhanwu/smartquestions#別把自己家庭作業的問題貼上來)
-    * [去除無意義的疑問](https://github.com/ryanhanwu/smartquestions#去除無意義的疑問)
-    * [不要把問題標記為"急"，即使對你而言確實如此](https://github.com/ryanhanwu/smartquestions#不要把問題標記為"急"，即使對你而言確實如此)
-    * [有禮貌絕沒有害處，而且有時是有益的](https://github.com/ryanhanwu/smartquestions#有禮貌絕沒有害處，而且有時是有益的)
-    * [問題解決後，加個簡短說明](https://github.com/ryanhanwu/smartquestions#問題解決後，加個簡短說明)
-  * [如何解讀答案](https://github.com/ryanhanwu/smartquestions#如何解讀答案)
-    * [RTFM和STFW：如何知道你已完全搞砸](https://github.com/ryanhanwu/smartquestions#RTFM和STFW：如何知道你已完全搞砸)
-    * [如果還是搞不懂](https://github.com/ryanhanwu/smartquestions#如果還是搞不懂)
-    * [應對粗魯的回應](https://github.com/ryanhanwu/smartquestions#應對粗魯的回應)
-  * [如何避免扮演失敗者](https://github.com/ryanhanwu/smartquestions#如何避免扮演失敗者)
-  * [提問的禁忌](https://github.com/ryanhanwu/smartquestions#提問的禁忌)
-    * [問題清單](https://github.com/ryanhanwu/smartquestions#問題清單)
-    * [蠢問題範例](https://github.com/ryanhanwu/smartquestions#蠢問題範例)
-  * [好問題，壞問題](https://github.com/ryanhanwu/smartquestions#好問題，壞問題)
-  * [如果得不到回答](https://github.com/ryanhanwu/smartquestions#如果得不到回答)
-  * [如何更好地回答問題](https://github.com/ryanhanwu/smartquestions#如何更好地回答問題)
-  * [相關資源](https://github.com/ryanhanwu/smartquestions#相關資源)
-  * [鳴謝](https://github.com/ryanhanwu/smartquestions#鳴謝)
+  * [聲明](#聲明)
+  * [簡介](#簡介)
+  * [在提問之前](#在提問之前)
+  * [當你提問時](#當你提問時)
+    * [慎選提問的論壇](#慎選提問的論壇)
+    * [Stack Overflow](#Stack Overflow)
+    * [網站和IRC論壇](#網站和IRC論壇)
+    * [第二步，使用專案郵件列表](#第二步，使用專案郵件列表)
+    * [使用有意義且描述明確的標題](#使用有意義且描述明確的標題)
+    * [使問題容易回覆](#使問題容易回覆)
+    * [用辭貼切，語法正確，拼寫無誤](#用辭貼切，語法正確，拼寫無誤)
+    * [使用易於讀取且標準的文件格式發送問題](#使用易於讀取且標準的文件格式發送問題)
+    * [精確的描述問題並言之有物](#精確的描述問題並言之有物)
+    * [話不在多而在精](#話不在多而在精)
+    * [別動輒聲稱找到Bug](#別動輒聲稱找到Bug)
+    * [低聲下氣前還是要先做功課](#低聲下氣前還是要先做功課)
+    * [描述問題症狀而非猜測](#描述問題症狀而非猜測)
+    * [按發生時間先後列出問題症狀](#按發生時間先後列出問題症狀)
+    * [描述目標而不是過程](#描述目標而不是過程)
+    * [別要求使用私人電郵回覆](#別要求使用私人電郵回覆)
+    * [提問應清楚明確](#提問應清楚明確)
+    * [當詢問有關程式碼的問題時](#當詢問有關程式碼的問題時)
+    * [別把自己家庭作業的問題貼上來](#別把自己家庭作業的問題貼上來)
+    * [去除無意義的疑問](#去除無意義的疑問)
+    * [不要把問題標記為"急"，即使對你而言確實如此](#不要把問題標記為"急"，即使對你而言確實如此)
+    * [有禮貌絕沒有害處，而且有時是有益的](#有禮貌絕沒有害處，而且有時是有益的)
+    * [問題解決後，加個簡短說明](#問題解決後，加個簡短說明)
+  * [如何解讀答案](#如何解讀答案)
+    * [RTFM和STFW：如何知道你已完全搞砸](#RTFM和STFW：如何知道你已完全搞砸)
+    * [如果還是搞不懂](#如果還是搞不懂)
+    * [應對粗魯的回應](#應對粗魯的回應)
+  * [如何避免扮演失敗者](#如何避免扮演失敗者)
+  * [提問的禁忌](#提問的禁忌)
+    * [問題清單](#問題清單)
+    * [蠢問題範例](#蠢問題範例)
+  * [好問題，壞問題](#好問題，壞問題)
+  * [如果得不到回答](#如果得不到回答)
+  * [如何更好地回答問題](#如何更好地回答問題)
+  * [相關資源](#相關資源)
+  * [鳴謝](#鳴謝)
 
 ##聲明
 
@@ -266,7 +266,7 @@ I'll be glad to translate responses, if you only use one or the other.
   * 使用MIME附件通常是可以的，前提是真正有內容（譬如附帶的原始碼或patch），而不僅僅是郵件程式生成的模板（譬如只是信件內容的拷貝）。
   * 不要發送一段文字只是單行句子但多次斷行的郵件（這使得回覆部分內容非常困難）。設想你的讀者是在80個字符寬的終端機上閱讀郵件，最好設置你的斷行點小於80字。
   * 但是，也**_不要_**用任何固定斷行資料（譬如日誌檔案拷貝或會話記錄）。檔案應該原樣包含，讓回覆者有信心他們看到的是和你看到的一樣的東西。
-  * 在英語論壇中，不要使用'Quoted-Printable' MIME編碼發送消息。這種編碼對於張貼非ASCII語言可能是必須的，但很多郵件程式並不支援這種編碼。當它們分斷時，那些文本中四處散佈的"=20"符號既難看也分散注意力，甚至有可能破壞內容的語意。
+  * 在英語論壇中，不要使用```Quoted-Printable``` MIME編碼發送消息。這種編碼對於張貼非ASCII語言可能是必須的，但很多郵件程式並不支援這種編碼。當它們分斷時，那些文本中四處散佈的```=20```符號既難看也分散注意力，甚至有可能破壞內容的語意。
   * 絕對，**_永遠_**不要指望黑客們閱讀使用封閉格式編寫的文檔，像是微軟公司的Word或Excel文件等。大多數黑客對此的反應就像有人將還在冒熱氣的豬糞倒在你門口階梯上時你的反應一樣。即便他們能夠處理，他們也很厭惡這麼做。
   * 如果你從使用Windows的電腦發送電子郵件，關閉微軟愚蠢的```智慧引號```功能 （從[選項] > [校訂] > [自動校正選項], 按掉```智慧引號```核取方塊），以免在你的郵件中到處散佈垃圾字符。
   * 在論壇，勿濫用```表情符號```和```HTML```功能（當它們提供時）。一兩個表情符號通常沒有問題，但花哨的彩色文本傾向於使人認為你是個無能之輩。過濫地使用表情符號、色彩和字體會使你看來像個傻笑的小姑娘。這通常不是個好主意，除非你只是對性而不是有用的回覆更有興趣。
@@ -299,13 +299,13 @@ I'll be glad to translate responses, if you only use one or the other.
 
 ### 別動輒聲稱找到Bug
 
-當你在使用軟體中遇到問題，除非你非常、非常的有根據，不要動輒聲稱找到了Bug。提示：除非你能提供解決問題的源代碼補丁，或者對前一版本的回歸測試表現出不正確的行為，否則你都多半不夠完全確信。對於網頁和文件也如此，如果你（聲稱）發現了文件的"Bug"，你應該能提供相應位置的替代文件。
+當你在使用軟體中遇到問題，除非你非常、**_非常_**的有根據，不要動輒聲稱找到了Bug。提示：除非你能提供解決問題的原始碼補丁，或者對前一版本的回歸測試表現出不正確的行為，否則你都多半不夠完全確信。這同樣適用在網頁和文件，如果你（聲稱）發現了文件的```Bug```，你應該能提供相應位置的修正或替代文件。
 
-請記得，還有許多其它使用者未經歷你遇到的問題，否則你在閱讀文件或搜尋網頁時就應該發現了（你在報怨前已經做了這些，是吧？）。這也意味著很有可能是你弄錯了而不是軟體本身有問題。
+請記得，還有許多其它使用者沒遇到你發現的問題，否則你在閱讀文件或搜尋網頁時就應該發現了（你在抱怨前[已經做了這些，是吧](#在提問之前)？）。這也意味著很有可能是你弄錯了而不是軟體本身有問題。
 
-編寫軟體的人總是非常辛苦地使它盡可能完美。如果你聲稱找到了Bug，也就置疑了他們的能力，即使你是對的，也有可能會使其中的部分人感到不快。此外，在主題中嚷嚷"Bug"也是特別不禮貌的。
+編寫軟體的人總是非常辛苦地使它盡可能完美。如果你聲稱找到了Bug，也就是在質疑他們的能力，即使你是對的，也有可能會冒犯到其中某部分人。這尤其嚴重當你在標題中嚷嚷著有```Bug```。
 
-提問時，即使你私下非常確信已經發現一個真正的臭蟲，最好寫得像是你做錯了什麼。如果真的有臭蟲，你會在回復中看到這點。這樣做的話，如果真有蟲子，維護者就會向你道歉，這總比你搞砸了然後欠別人一個道歉要強。
+提問時，即使你私下非常確信已經發現一個真正的臭蟲，最好寫得像是**_你_**做錯了什麼。如果真的有臭蟲，你會在回覆中看到這點。這樣做的話，如果真有臭蟲，維護者就會向你道歉，這總比你惹惱別人然後欠別人一個道歉要好一點。
 
 ### 低聲下氣前還是要先做功課
 

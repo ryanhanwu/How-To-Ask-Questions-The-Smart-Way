@@ -10,7 +10,7 @@
 			headerText = header.textContent.trim(),
 			hIndex = parseInt(header.nodeName.substring(1)) - 1,
 			indent = "  ".repeat(hIndex),
-			link = ['<pre>', indent, '* [', headerText, '](', url, '#', headerText, ')', '\n', '</pre>'];
+			link = ['<pre>', indent, '* [', headerText, '](', '#', headerText, ')', '\n', '</pre>'];
 		result += link.join('');
 	}
 	var win = window.open("", "win");
