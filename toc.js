@@ -7,11 +7,12 @@
 		result;
 	for (var i = 3; i < headers.length; i++) { //skip H1, history, and toc
 		var header = headers[i],
-			headerText = header.textContent.trim(),
-			headerText = headerText.replace(" ", "-");
+			headerText = header.textContent.trim();
+		var anchorText = headerText.toLowerCase(),
+			anchorText = anchorText.replace(" ", "-");
 		var hIndex = parseInt(header.nodeName.substring(1)) - 1,
 			indent = "  ".repeat(hIndex),
-			link = ['<pre>', indent, '* [', headerText, '](', '#', headerText, ')', '\n', '</pre>'];
+			link = ['<pre>', indent, '* [', headerText, '](', '#', anchorText, ')', '\n', '</pre>'];
 		result += link.join('');
 	}
 	var win = window.open("", "win");
