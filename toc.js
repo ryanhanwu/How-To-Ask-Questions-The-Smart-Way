@@ -8,7 +8,8 @@
 	for (var i = 3; i < headers.length; i++) { //skip H1, history, and toc
 		var header = headers[i],
 			headerText = header.textContent.trim(),
-			hIndex = parseInt(header.nodeName.substring(1)) - 1,
+			headerText = headerText.replace(" ", "-");
+		var hIndex = parseInt(header.nodeName.substring(1)) - 1,
 			indent = "  ".repeat(hIndex),
 			link = ['<pre>', indent, '* [', headerText, '](', '#', headerText, ')', '\n', '</pre>'];
 		result += link.join('');

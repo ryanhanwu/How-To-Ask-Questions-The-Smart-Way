@@ -24,7 +24,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
   * [在提問之前](#在提問之前)
   * [當你提問時](#當你提問時)
     * [慎選提問的論壇](#慎選提問的論壇)
-    * [Stack Overflow](#Stack Overflow)
+    * [Stack-Overflow](#Stack-Overflow)
     * [網站和IRC論壇](#網站和IRC論壇)
     * [第二步，使用專案郵件列表](#第二步，使用專案郵件列表)
     * [使用有意義且描述明確的標題](#使用有意義且描述明確的標題)
