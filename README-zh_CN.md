@@ -14,7 +14,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 协助指出翻译问题，__请[发Issue](https://github.com/ryanhanwu/smartquestions/issues/new)，或直接[发Pull Request](https://github.com/ryanhanwu/smartquestions/compare/)给我。__
 
-本文另有简体中文版: [http://www.beiww.com/doc/oss/smart-questions.html](http://www.beiww.com/doc/oss/smart-questions.html)
+本文另有简体中文版: [https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md](https://github.com/FredWe/How-To-Ask-Questions-The-Smart-Way/blob/master/README-zh_CN.md)
 
 ## [原文版本历史](https://github.com/ryanhanwu/smartquestions/blob/master/history.md)
 
