@@ -550,7 +550,7 @@ RTFM 有一個年輕的親戚。如果你收到```STFW（Search The Fucking Web�
 <a id="q6"></a>
 > 問題：我的 Windows 電腦有問題，你能幫我嗎？
 
-回答：能啊，扔掉萎軟的垃圾，換個像 Linux 或 BSD 的開放原始碼作業系統吧。
+回答：能啊，扔掉微軟的垃圾，換個像 Linux 或 BSD 的開放原始碼作業系統吧。
 
 注意：如果程式有官方版 Windows 或者與 Windows 有互動（如Samba），你**可以**問與Windows相關的問題， 只是別對問題是由 Windows 作業系統而不是程式本身造成的回覆感到驚訝， 因為 Windows 一般來說實在太爛，這種說法通常都是對的。
 
