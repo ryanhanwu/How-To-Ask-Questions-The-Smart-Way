@@ -282,7 +282,7 @@ Stack Exchange 已经成长到[超过一百个网站](http://stackexchange.com/s
 
 以上几点中，当你报告的是你认为可能在代码中的问题时，给黑客一个可以重现你的问题的环境尤其重要。当你这么做时，你得到有效的回答的机会和速度都会大大的提升。
 
-[Simon Tatham](http://www.chiark.greenend.org.uk/~sgtatham/) 写过一篇名为《[如何有效的报告 Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)》的出色文章。强力推荐你也读一读。
+[Simon Tatham](http://www.chiark.greenend.org.uk/~sgtatham/) 写过一篇名为《[如何有效的报告 Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)》的出色文章。强力推荐你也读一读。
 
 ### 话不在多而在精
 
