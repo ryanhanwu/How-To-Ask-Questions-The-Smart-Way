@@ -1,6 +1,6 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-6-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-7-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
@@ -688,6 +688,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/cuter44"><img src="https://avatars.githubusercontent.com/u/2285039?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Galin Wu</b></sub></a><br /><a href="#translation-cuter44" title="Translation">🌍</a></td>
     <td align="center"><a href="http://blog.csdn.net/lantianjialiang/"><img src="https://avatars.githubusercontent.com/u/4327697?v=4?s=100" width="100px;" alt=""/><br /><sub><b>lantianjialiang</b></sub></a><br /><a href="#translation-lantianjialiang" title="Translation">🌍</a></td>
     <td align="center"><a href="https://linuxtoy.org"><img src="https://avatars.githubusercontent.com/u/15364?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Xiaodong Xu</b></sub></a><br /><a href="#translation-xuxiaodong" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://blog.clifflu.net"><img src="https://avatars.githubusercontent.com/u/1589313?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Cliff Chao-kuan Lu</b></sub></a><br /><a href="#translation-clifflu" title="Translation">🌍</a></td>
   </tr>
 </table>
 
