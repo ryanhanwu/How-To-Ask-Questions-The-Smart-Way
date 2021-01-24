@@ -1,6 +1,6 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-22-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-23-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
@@ -710,6 +710,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   </tr>
   <tr>
     <td align="center"><a href="https://github.com/FranklinYu"><img src="https://avatars.githubusercontent.com/u/3153452?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Franklin Yu</b></sub></a><br /><a href="#translation-FranklinYu" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://ld246.com"><img src="https://avatars.githubusercontent.com/u/873584?v=4?s=100" width="100px;" alt=""/><br /><sub><b>D</b></sub></a><br /><a href="#translation-88250" title="Translation">🌍</a></td>
   </tr>
 </table>
 
