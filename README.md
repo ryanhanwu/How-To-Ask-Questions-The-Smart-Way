@@ -1,6 +1,6 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-12-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-13-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
@@ -696,6 +696,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/lvsj"><img src="https://avatars.githubusercontent.com/u/5672080?v=4?s=100" width="100px;" alt=""/><br /><sub><b>steven lyu</b></sub></a><br /><a href="#translation-lvsj" title="Translation">🌍</a></td>
     <td align="center"><a href="http://linkedin.com/in/yen-wu"><img src="https://avatars.githubusercontent.com/u/11289349?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Yan-Kuan Wu</b></sub></a><br /><a href="#translation-yan-kuan" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/Kalger"><img src="https://avatars.githubusercontent.com/u/15393585?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alger</b></sub></a><br /><a href="#translation-Kalger" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/HJ1AN"><img src="https://avatars.githubusercontent.com/u/10445159?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HJ1AN</b></sub></a><br /><a href="#translation-HJ1AN" title="Translation">🌍</a></td>
   </tr>
 </table>
 
