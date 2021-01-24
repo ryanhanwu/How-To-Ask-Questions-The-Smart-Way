@@ -157,6 +157,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "TomazWang",
+      "name": "Tomaz Wang",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7992586?v=4",
+      "profile": "http://tomazwang.github.io",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
