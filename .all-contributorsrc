@@ -229,6 +229,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "gricn",
+      "name": "gricn",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34237589?v=4",
+      "profile": "http://gricn.github.io",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
