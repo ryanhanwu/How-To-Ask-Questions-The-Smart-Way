@@ -49,6 +49,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "xuxiaodong",
+      "name": "Xiaodong Xu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15364?v=4",
+      "profile": "https://linuxtoy.org",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
