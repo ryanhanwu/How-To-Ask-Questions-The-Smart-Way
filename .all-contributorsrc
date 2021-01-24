@@ -247,6 +247,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "LadderOperator",
+      "name": "LadderOperator",
+      "avatar_url": "https://avatars.githubusercontent.com/u/34033754?v=4",
+      "profile": "https://ladderoperator.top/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
