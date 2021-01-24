@@ -103,6 +103,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Kalger",
+      "name": "Alger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/15393585?v=4",
+      "profile": "https://github.com/Kalger",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
