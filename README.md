@@ -1,6 +1,6 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-14-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-15-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
@@ -698,6 +698,9 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/Kalger"><img src="https://avatars.githubusercontent.com/u/15393585?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Alger</b></sub></a><br /><a href="#translation-Kalger" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/HJ1AN"><img src="https://avatars.githubusercontent.com/u/10445159?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HJ1AN</b></sub></a><br /><a href="#translation-HJ1AN" title="Translation">🌍</a></td>
     <td align="center"><a href="http://konekoya.github.io/"><img src="https://avatars.githubusercontent.com/u/12165714?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Joshua</b></sub></a><br /><a href="#translation-konekoya" title="Translation">🌍</a></td>
+  </tr>
+  <tr>
+    <td align="center"><a href="https://splasky.blogspot.com/"><img src="https://avatars.githubusercontent.com/u/14876069?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HY Chang(splasky)</b></sub></a><br /><a href="#translation-splasky" title="Translation">🌍</a></td>
   </tr>
 </table>
 
