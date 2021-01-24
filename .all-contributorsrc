@@ -67,6 +67,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "Fibird",
+      "name": "Chaoyang Liu",
+      "avatar_url": "https://avatars.githubusercontent.com/u/12209558?v=4",
+      "profile": "https://github.com/Fibird",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
