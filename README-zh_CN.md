@@ -15,9 +15,9 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 协助指出翻译问题，**请[发 Issue](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/issues/new)，或直接[发 Pull Request](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/compare) 给我。**
 
-本文另有[繁體中文版](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/README.md)。
+本文另有[繁體中文版](README.md)。
 
-## [原文版本历史](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/blob/master/history.md)
+## [原文版本历史](history.md)
 
 ## 目录
   * [声明](#声明)
@@ -150,7 +150,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 搜索，**然后** 在 Stack Exchange 问。
 
-近年来，Stack Exchange community 社区已经成为回答技术及其他问题的主要渠道，尤其是那些开放源码的项目。
+近年来，Stack Exchange 社区已经成为回答技术及其他问题的主要渠道，尤其是那些开放源码的项目。
 
 因为 Google 索引是即时的，在看 Stack Exchange 之前先在 Google 搜索。有很高的机率某人已经问了一个类似的问题，而且 Stack Exchange 网站们往往会是搜索结果中最前面几个。如果你在 Google 上没有找到任何答案，你再到特定相关主题的网站去找。用标签（Tag）搜索能让你更缩小你的搜索结果。
 
