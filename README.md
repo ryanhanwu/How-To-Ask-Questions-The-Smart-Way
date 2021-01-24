@@ -1,6 +1,6 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-9-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-10-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
@@ -693,6 +693,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="https://github.com/Fibird"><img src="https://avatars.githubusercontent.com/u/12209558?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Chaoyang Liu</b></sub></a><br /><a href="#translation-Fibird" title="Translation">🌍</a></td>
     <td align="center"><a href="https://www.rayjune.com/about"><img src="https://avatars.githubusercontent.com/u/22052875?v=4?s=100" width="100px;" alt=""/><br /><sub><b>瑞君</b></sub></a><br /><a href="#translation-RayJune" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/lvsj"><img src="https://avatars.githubusercontent.com/u/5672080?v=4?s=100" width="100px;" alt=""/><br /><sub><b>steven lyu</b></sub></a><br /><a href="#translation-lvsj" title="Translation">🌍</a></td>
   </tr>
 </table>
 
