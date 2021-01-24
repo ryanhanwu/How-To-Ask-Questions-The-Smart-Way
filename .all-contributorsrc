@@ -238,6 +238,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "fireairforce",
+      "name": "zoomdong",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32598811?v=4",
+      "profile": "http://zoomdong.cn/",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
