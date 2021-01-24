@@ -684,6 +684,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
   <tr>
     <td align="center"><a href="http://fredwe.info"><img src="https://avatars.githubusercontent.com/u/7354718?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fred</b></sub></a><br /><a href="#translation-FredWe" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/fishballLin"><img src="https://avatars.githubusercontent.com/u/11352791?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Michael Lin</b></sub></a><br /><a href="#translation-fishballLin" title="Translation">🌍</a></td>
+    <td align="center"><a href="https://github.com/cuter44"><img src="https://avatars.githubusercontent.com/u/2285039?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Galin Wu</b></sub></a><br /><a href="#translation-cuter44" title="Translation">🌍</a></td>
   </tr>
 </table>
 
