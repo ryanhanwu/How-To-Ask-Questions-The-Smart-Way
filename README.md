@@ -1,4 +1,7 @@
 # 提問的智慧
+<!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
+[![All Contributors](https://img.shields.io/badge/all_contributors-1-orange.svg?style=flat-square)](#contributors-)
+<!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
 **How To Ask Questions The Smart Way**
@@ -669,3 +672,23 @@ RTFM 有一個年輕的親戚。如果你收到```STFW（Search The Fucking Web�
 
 ## 鳴謝
 Evelyn Mitchel 貢獻了一些愚蠢問題例子並啟發了編寫```如何更好地回答問題```這一節， Mikhail Ramendik 貢獻了一些特別有價值的建議和改進。
+
+## Contributors ✨
+
+Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/docs/en/emoji-key)):
+
+<!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
+<!-- prettier-ignore-start -->
+<!-- markdownlint-disable -->
+<table>
+  <tr>
+    <td align="center"><a href="http://fredwe.info"><img src="https://avatars.githubusercontent.com/u/7354718?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Fred</b></sub></a><br /><a href="#translation-FredWe" title="Translation">🌍</a></td>
+  </tr>
+</table>
+
+<!-- markdownlint-restore -->
+<!-- prettier-ignore-end -->
+
+<!-- ALL-CONTRIBUTORS-LIST:END -->
+
+This project follows the [all-contributors](https://github.com/all-contributors/all-contributors) specification. Contributions of any kind welcome!
