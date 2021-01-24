@@ -1,6 +1,6 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-17-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-18-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
@@ -703,6 +703,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://splasky.blogspot.com/"><img src="https://avatars.githubusercontent.com/u/14876069?v=4?s=100" width="100px;" alt=""/><br /><sub><b>HY Chang(splasky)</b></sub></a><br /><a href="#translation-splasky" title="Translation">🌍</a></td>
     <td align="center"><a href="https://github.com/SaberPdr"><img src="https://avatars.githubusercontent.com/u/18625830?v=4?s=100" width="100px;" alt=""/><br /><sub><b>qiuqiu</b></sub></a><br /><a href="#translation-SaberPdr" title="Translation">🌍</a></td>
     <td align="center"><a href="http://a.dqwyy.moe"><img src="https://avatars.githubusercontent.com/u/20705919?v=4?s=100" width="100px;" alt=""/><br /><sub><b>dqwyy</b></sub></a><br /><a href="#translation-dqwyy" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://tomazwang.github.io"><img src="https://avatars.githubusercontent.com/u/7992586?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Tomaz Wang</b></sub></a><br /><a href="#translation-TomazWang" title="Translation">🌍</a></td>
   </tr>
 </table>
 
