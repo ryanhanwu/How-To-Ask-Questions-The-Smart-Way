@@ -1,6 +1,6 @@
 # 提問的智慧
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
-[![All Contributors](https://img.shields.io/badge/all_contributors-31-orange.svg?style=flat-square)](#contributors-)
+[![All Contributors](https://img.shields.io/badge/all_contributors-32-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/pulls)
 
@@ -721,6 +721,7 @@ Thanks goes to these wonderful people ([emoji key](https://allcontributors.org/d
     <td align="center"><a href="https://github.com/WuzgXY-GitHub"><img src="https://avatars.githubusercontent.com/u/62000315?v=4?s=100" width="100px;" alt=""/><br /><sub><b>WuzgXY</b></sub></a><br /><a href="#translation-WuzgXY-GitHub" title="Translation">🌍</a></td>
     <td align="center"><a href="http://baoshuo.ren"><img src="https://avatars.githubusercontent.com/u/47095648?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Ren Baoshuo</b></sub></a><br /><a href="#translation-renbaoshuo" title="Translation">🌍</a></td>
     <td align="center"><a href="https://jalenchuh.cn/"><img src="https://avatars.githubusercontent.com/u/57910033?v=4?s=100" width="100px;" alt=""/><br /><sub><b>Jalen</b></sub></a><br /><a href="#translation-jalenchuh" title="Translation">🌍</a></td>
+    <td align="center"><a href="http://www.libiao.vip"><img src="https://avatars.githubusercontent.com/u/8528590?v=4?s=100" width="100px;" alt=""/><br /><sub><b>BillLucky</b></sub></a><br /><a href="#translation-BillLucky" title="Translation">🌍</a></td>
   </tr>
 </table>
 
