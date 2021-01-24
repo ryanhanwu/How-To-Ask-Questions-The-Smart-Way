@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "FredWe",
+      "name": "Fred",
+      "avatar_url": "https://avatars.githubusercontent.com/u/7354718?v=4",
+      "profile": "http://fredwe.info",
+      "contributions": [
+        "translation"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "How-To-Ask-Questions-The-Smart-Way",
+  "projectOwner": "ryanhanwu",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
