@@ -265,6 +265,15 @@
       "contributions": [
         "translation"
       ]
+    },
+    {
+      "login": "renbaoshuo",
+      "name": "Ren Baoshuo",
+      "avatar_url": "https://avatars.githubusercontent.com/u/47095648?v=4",
+      "profile": "http://baoshuo.ren",
+      "contributions": [
+        "translation"
+      ]
     }
   ],
   "contributorsPerLine": 7,
