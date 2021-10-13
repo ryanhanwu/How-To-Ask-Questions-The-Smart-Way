@@ -396,7 +396,7 @@ Stack Exchange 已经成长到[超过一百个网站](http://stackexchange.com/s
 
 其次：由于这样问是画蛇添足，黑客们会很厌烦你 —— 而且通常会用逻辑上正确，但毫无意义的回答来表示他们的蔑视， 例如：`没错，有人能帮你`或者`不，没答案`。
 
-一般来说，避免用 `是或否`、`对或错`、`有或没有`类型的问句，除非你想得到[是或否类型的回答](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/questions-with-yes-or-no-answers.html)。
+一般来说，避免用 `是或否`、`对或错`、`有或没有`类型的问句，除非你想得到[是或否类型的回答](https://strcat.de/questions-with-yes-or-no-answers.html)。
 
 ### 即使你很急也不要在标题写`紧急`
 
