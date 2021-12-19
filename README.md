@@ -397,7 +397,7 @@ Stack Exchange 已經成長到[超過一百個網站](http://stackexchange.com/s
 
 其次：由於這樣問是畫蛇添足，黑客們會很厭煩你──而且通常會用邏輯上正確，但毫無意義的回答來表示他們的蔑視， 例如：```沒錯，有人能幫你```或者```不，沒答案```。
 
-一般來說，避免用 ```是或否```、```對或錯```、```有或沒有```類型的問句，除非你想得到[是或否類型的回答](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/questions-with-yes-or-no-answers.html)。
+一般來說，避免用 ```是或否```、```對或錯```、```有或沒有```類型的問句，除非你想得到[是或否類型的回答](https://strcat.de/questions-with-yes-or-no-answers.html)。
 
 ### 即使你很急也不要在標題寫```緊急```
 
