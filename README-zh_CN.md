@@ -91,7 +91,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
 
 如果你决定向我们求助，当然你也不希望被视为失败者，更不愿成为失败者中的一员。能立刻得到快速并有效答案的最好方法，就是像赢家那样提问 —— 聪明、自信、有解决问题的思路，只是偶尔在特定的问题上需要获得一点帮助。
 
-（欢迎对本指南提出改进意见。你可以 email 你的建议至 [esr@thyrsus.com](esr@thyrsus.com) 或 [respond-auto@linuxmafia.com](respond-auto@linuxmafia.com)。然而请注意，本文并非[网络礼节](http://www.ietf.org/rfc/rfc1855.txt)的通用指南，而我们通常会拒绝无助于在技术论坛得到有用答案的建议）。
+（欢迎对本指南提出改进意见。你可以把你的建议发送至 [esr@thyrsus.com](esr@thyrsus.com) 或 [respond-auto@linuxmafia.com](respond-auto@linuxmafia.com)。然而请注意，本文并非[网络礼节](http://www.ietf.org/rfc/rfc1855.txt)的通用指南，而我们通常会拒绝无助于在技术论坛得到有用答案的建议）。
 
 ## 在提问之前
 
