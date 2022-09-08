@@ -94,7 +94,7 @@ __本指南不提供此專案的實際支援服務！__
 
 如果你決定向我們求助，當然你也不希望被視為失敗者，更不願成為失敗者中的一員。能立刻得到快速並有效答案的最好方法，就是像贏家那樣提問──聰明、自信、有解決問題的思路，只是偶爾在特定的問題上需要獲得一點幫助。
 
-（歡迎對本指南提出改進意見。你可以 email 你的建議至 [esr@thyrsus.com](esr@thyrsus.com) 或 [respond-auto@linuxmafia.com](respond-auto@linuxmafia.com)。然而請注意，本文並非[網路禮節](http://www.ietf.org/rfc/rfc1855.txt)的通用指南，而我們通常會拒絕無助於在技術論壇得到有用答案的建議。）
+（歡迎對本指南提出改進意見。你可以 email 你的建議至 [esr@thyrsus.com](mailto:esr@thyrsus.com) 或 [respond-auto@linuxmafia.com](mailto:respond-auto@linuxmafia.com)。然而請注意，本文並非[網路禮節](http://www.ietf.org/rfc/rfc1855.txt)的通用指南，而我們通常會拒絕無助於在技術論壇得到有用答案的建議。）
 
 ## 在提問之前
 
