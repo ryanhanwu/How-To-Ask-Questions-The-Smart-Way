@@ -286,7 +286,7 @@ Stack Exchange 已經成長到[超過一百個網站](https://stackexchange.com/
 
 以上幾點中，當你回報的是你認為可能在程式碼中的問題時，給駭客一個可以重製你的問題的環境尤其重要。當你這麼做時，你得到有效的回答的機會和速度都會大大的提升。
 
-[Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/) 寫過一篇名為〈[如何有效的回報Bug](https://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)〉的出色文章。強力推薦你也讀一讀。
+[Simon Tatham](https://www.chiark.greenend.org.uk/~sgtatham/) 寫過一篇名為〈[如何有效地回報Bug](https://www.chiark.greenend.org.uk/~sgtatham/bugs-tw.html)〉的出色文章。強力推薦你也讀一讀。
 
 ### 話不在多而在精
 
