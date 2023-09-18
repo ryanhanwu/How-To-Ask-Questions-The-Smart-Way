@@ -40,7 +40,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015 by Ryan Wu
     * [按发生时间先后列出问题症状](#按发生时间先后列出问题症状)
     * [描述目标而不是过程](#描述目标而不是过程)
     * [别要求使用私人电邮回复](#别要求使用私人电邮回复)
-    * [清楚明确的表达你的问题以及需求](#清楚明确的表达你的问题以及需求)
+    * [清楚明确地表达你的问题以及需求](#清楚明确地表达你的问题以及需求)
     * [询问有关代码的问题时](#询问有关代码的问题时)
     * [别把自己家庭作业的问题贴上来](#别把自己家庭作业的问题贴上来)
     * [去掉无意义的提问句](#去掉无意义的提问句)
@@ -287,7 +287,7 @@ Stack Exchange 已经成长到[超过一百个网站](https://stackexchange.com/
 
 以上几点中，当你报告的是你认为可能在代码中的问题时，给黑客一个可以重现你的问题的环境尤其重要。当你这么做时，你得到有效的回答的机会和速度都会大大的提升。
 
-[Simon Tatham](http://www.chiark.greenend.org.uk/~sgtatham/) 写过一篇名为《[如何有效的报告 Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)》的出色文章。强力推荐你也读一读。
+[Simon Tatham](http://www.chiark.greenend.org.uk/~sgtatham/) 写过一篇名为《[如何有效地报告Bug](http://www.chiark.greenend.org.uk/~sgtatham/bugs-cn.html)》的出色文章。强力推荐你也读一读。
 
 ### 话不在多而在精
 
