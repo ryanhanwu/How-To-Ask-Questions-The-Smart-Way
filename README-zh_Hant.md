@@ -18,7 +18,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015-present by [Ryan
 
 協助指出翻譯問題，__請[發 issue](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/issues/new)，或直接[發 pull pequest](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/compare/) 給我。__
 
-本文另有：[简体中文版](README-zh_CN.md)
+本文另有：[简体中文版](README.md)
 
 ## [原文版本歷史](history.md)
 
