@@ -1,0 +1,9 @@
+select count(1),swb_table from schema where etl_batch_id =current etl_batch_id group by swb_table
+if count =0
+remove the table from the list
+create groups with non zero data tables
+parallel bdm run for groups
+if run success update the parfiles with 'S' status
+Else update with 'F' status
+if status for all tables are 'S'
+JOB completed for the group
