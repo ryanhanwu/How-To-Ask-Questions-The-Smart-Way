@@ -16,7 +16,7 @@ Copyleft 2001 by D.H.Grand(nOBODY/Ginux), 2010 by Gasolin, 2015-present by [Ryan
 
 本中文指南是基於原文 3.10 版以及 2010 年由 [Gasolin](https://github.com/gasolin) 所翻譯版本的最新翻譯；
 
-協助指出翻譯問題，__請[發 issue](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/issues/new)，或直接[發 pull pequest](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/compare/) 給我。__
+協助指出翻譯問題，__請[發 issue](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/issues/new)，或直接[發 pull request](https://github.com/ryanhanwu/How-To-Ask-Questions-The-Smart-Way/compare/) 給我。__
 
 本文另有：[简体中文版](README-zh_CN.md)
 
